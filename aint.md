@@ -4,6 +4,7 @@
 
 #### TODO
 
+- [ ] docker logs
 - [ ] vanity tool
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
