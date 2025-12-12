@@ -8,7 +8,6 @@
 - [ ] vanity tool
 - [ ] node-master persistent chain
 - [ ] website - aintcoin
-- [ ] ATC - spend AINT
 - [ ] ATC - use Anote
 - [ ] funnels
 - [ ] gateway
@@ -67,3 +66,4 @@
 - [x] us move
 - [x] fund sat mining
 - [x] fix mobile mining
+- [x] ATC - spend AINT
